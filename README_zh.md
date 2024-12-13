@@ -13,7 +13,7 @@
 或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
-使用AI在白板上快速创建和编辑草图,支持多种绘图工具和AI辅助功能。
+### 基于<a href="https://github.com/excalidraw/excalidraw">excalidraw</a>为主，实现在白板上快速创建和编辑草图,支持AI绘图工具和辅助功能。
 ![界面预览](docs/画图版1.png)
 ![界面预览](docs/画图板2.png)
 

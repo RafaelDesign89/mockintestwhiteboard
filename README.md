@@ -10,7 +10,7 @@ You can log in directly to 302.AI to use the online version with zero code and z
 Alternatively, you can modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
 
 ## Interface Preview
-Quickly create and edit sketches on a whiteboard using AI, supporting various drawing tools and AI-assisted functions.
+### Based on <a href="https://github.com/excalidraw/excalidraw">Excalidraw</a>, this tool enables quick creation and editing of sketches on a whiteboard, supporting AI drawing tools and assistive features.
 ![Interface Preview](docs/画图版1.png)
 ![Interface Preview](docs/画图板2.png)
 
