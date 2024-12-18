@@ -6,7 +6,7 @@
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![界面预览](docs/画图板.png)
+![界面预览](docs/302_Whiteboard.png)
 
 来自[302.AI](https://302.ai)的[ AI 画图板 ](https://302.ai/tools/whiteboard/)的开源版本。
 你可以直接登录302.AI，零代码零配置使用在线版本。
@@ -14,6 +14,7 @@
 
 ## 界面预览
 ### 基于<a href="https://github.com/excalidraw/excalidraw">excalidraw</a>为主，实现在白板上快速创建和编辑草图,支持AI绘图工具和辅助功能。
+![界面预览](docs/画图板.png)
 ![界面预览](docs/画图版1.png)
 ![界面预览](docs/画图板2.png)
 

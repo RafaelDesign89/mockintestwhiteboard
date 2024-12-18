@@ -3,7 +3,7 @@
 <p align="center"><a href="https://302.ai/tools/whiteboard/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![Interface Preview](docs/画图板.png)
+![Interface Preview](docs/302_Whiteboard_en.png)
 
 This is the open-source version of [AI Whiteboard](https://302.ai/tools/whiteboard/) from [302.AI](https://302.ai).
 You can log in directly to 302.AI to use the online version with zero code and zero configuration.
@@ -11,6 +11,7 @@ Alternatively, you can modify this project according to your needs, input 302.AI
 
 ## Interface Preview
 ### Based on <a href="https://github.com/excalidraw/excalidraw">Excalidraw</a>, this tool enables quick creation and editing of sketches on a whiteboard, supporting AI drawing tools and assistive features.
+![Interface Preview](docs/画图板.png)
 ![Interface Preview](docs/画图版1.png)
 ![Interface Preview](docs/画图板2.png)
 

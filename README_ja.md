@@ -3,7 +3,7 @@
 <p align="center"><a href="https://302.ai/tools/whiteboard/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/302_badge.png" /></a></p >
 <p align="center"><a href="README_zh.md">中国語</a> | <a href="README.md">英語</a> | <a href="README_ja.md">日本語</a></p>
 
-![インターフェースプレビュー](docs/画图板.png)
+![インターフェースプレビュー](docs/302_Whiteboard_jp.png)
 
 [302.AI](https://302.ai/ja)の[AIスケッチボード](https://302.ai/ja/tools/whiteboard/)のオープンソースバージョン。
 302.AIに直接ログインして、コードやコンフィグレーション不要でオンラインバージョンを使用できます。
@@ -11,6 +11,7 @@
 
 ## インターフェースプレビュー
 ### <a href="https://github.com/excalidraw/excalidraw">Excalidraw</a>をベースとし、ホワイトボード上で素早くスケッチを作成・編集する機能を実現し、AI描画ツールとサポート機能を提供します。
+![インターフェースプレビュー](docs/画图板.png)
 ![インターフェースプレビュー](docs/画图版1.png)
 ![インターフェースプレビュー](docs/画图板2.png)
 
