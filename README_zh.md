@@ -1,22 +1,26 @@
 # <p align="center">✏️ AI 画图板 🚀✨</p>
 
-<p align="center">使用AI在白板上快速创建草图</p>
+<p align="center">AI画图板支持在线绘制各式各样的草图原型，并可通过AI生成mermaid图表并转为支持的草图格式。</p>
 
-<p align="center"><a href="https://302.ai/tools/whiteboard/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/tools/whiteboard/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![界面预览](docs/302_Whiteboard.png)
+![](docs/302_Whiteboard.png)
 
 来自[302.AI](https://302.ai)的[ AI 画图板 ](https://302.ai/tools/whiteboard/)的开源版本。
 你可以直接登录302.AI，零代码零配置使用在线版本。
 或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
-### 基于<a href="https://github.com/excalidraw/excalidraw">excalidraw</a>为主，实现在白板上快速创建和编辑草图,支持AI绘图工具和辅助功能。
-![界面预览](docs/画图板.png)
-![界面预览](docs/画图版1.png)
-![界面预览](docs/画图板2.png)
+提供多种绘图功能，支持在线绘制各式各样的草图原型。
+![](docs/302_ AI_Whiteboard_screenshot_01.png)          
+
+可通过AI生成mermaid图表。
+![](docs/302_ AI_Whiteboard_screenshot_02.png)              
+
+可通过AI生成mermaid原型。
+![](docs/302_ AI_Whiteboard_screenshot_03.png)
 
 ## 项目特性
 ### 🖌️ Excalidraw核心功能

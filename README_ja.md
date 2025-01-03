@@ -1,19 +1,26 @@
 # <p align="center">✏️ AI スケッチボード 🚀✨</p>
-<p align="center">AIを使用してホワイトボード上で素早くスケッチを作成</p>
-<p align="center"><a href="https://302.ai/tools/whiteboard/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/302_badge.png" /></a></p >
-<p align="center"><a href="README_zh.md">中国語</a> | <a href="README.md">英語</a> | <a href="README_ja.md">日本語</a></p>
 
-![インターフェースプレビュー](docs/302_Whiteboard_jp.png)
+<p align="center">AIグラフィックボードは、オンラインでさまざまなスケッチプロトタイプを描画することをサポートし、AIによってmermaidグラフを生成し、サポートされているスケッチフォーマットに変換することができます。</p>
 
-[302.AI](https://302.ai/ja)の[AIスケッチボード](https://302.ai/ja/tools/whiteboard/)のオープンソースバージョン。
+<p align="center"><a href="https://302.ai/ja/tools/whiteboard/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+
+<p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
+
+![](docs/302_Whiteboard_jp.png)
+
+[302.AI](https://302.ai/ja/)の[AIスケッチボード](https://302.ai/ja/tools/whiteboard/)のオープンソースバージョン。
 302.AIに直接ログインして、コードやコンフィグレーション不要でオンラインバージョンを使用できます。
 または、このプロジェクトを自分のニーズに合わせて変更し、302.AIのAPIキーを使用して独自にデプロイすることができます。
 
 ## インターフェースプレビュー
-### <a href="https://github.com/excalidraw/excalidraw">Excalidraw</a>をベースとし、ホワイトボード上で素早くスケッチを作成・編集する機能を実現し、AI描画ツールとサポート機能を提供します。
-![インターフェースプレビュー](docs/画图板.png)
-![インターフェースプレビュー](docs/画图版1.png)
-![インターフェースプレビュー](docs/画图板2.png)
+さまざまなスケッチ原型をオンラインで描画するためのさまざまな描画機能を提供します。
+![](docs/302_AI_Whiteboard_jp_screenshot_01.png)           
+
+AIによるmermaidグラフの生成が可能です。
+![](docs/302_AI_Whiteboard_jp_screenshot_02.png)            
+
+AIによりmermaidプロトタイプを生成することができます。
+![](docs/302_AI_Whiteboard_jp_screenshot_03.png)
 
 ## プロジェクトの特徴
 ### 🖌️ Excalidrawのコア機能

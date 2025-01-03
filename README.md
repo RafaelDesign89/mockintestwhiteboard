@@ -1,19 +1,26 @@
 # <p align="center">✏️ AI Whiteboard 🚀✨</p>
-<p align="center">Quickly create sketches on a whiteboard using AI</p>
-<p align="center"><a href="https://302.ai/tools/whiteboard/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+
+<p align="center">The AI drawing board supports online drawing of various sketch prototypes, and can generate mermaid charts through AI and convert them into supported sketch formats.</p>
+
+<p align="center"><a href="https://302.ai/en/tools/whiteboard/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![Interface Preview](docs/302_Whiteboard_en.png)
 
-This is the open-source version of [AI Whiteboard](https://302.ai/tools/whiteboard/) from [302.AI](https://302.ai).
+This is the open-source version of [AI Whiteboard](https://302.ai/en/tools/whiteboard/) from [302.AI](https://302.ai/en/).
 You can log in directly to 302.AI to use the online version with zero code and zero configuration.
 Alternatively, you can modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
 
 ## Interface Preview
-### Based on <a href="https://github.com/excalidraw/excalidraw">Excalidraw</a>, this tool enables quick creation and editing of sketches on a whiteboard, supporting AI drawing tools and assistive features.
-![Interface Preview](docs/画图板.png)
-![Interface Preview](docs/画图版1.png)
-![Interface Preview](docs/画图板2.png)
+Provide multiple drawing functions and support online drawing of various sketch prototypes.
+![](docs/302_AI_Whiteboard_en_screenshot_01.png)        
+
+Mermaid charts can be generated through AI.
+![](docs/302_AI_Whiteboard_en_screenshot_02.png)         
+
+Mermaid prototypes can be generated through AI.
+![](docs/302_AI_Whiteboard_en_screenshot_03.png)
 
 ## Project Features
 ### 🖌️ Excalidraw Core Functions
