@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Tekstin luomisen prototyyppi",
   "alerts": {
     "cannotExportEmptyCanvas": "Tyhjää piirtoaluetta ei voi viedä.",
@@ -650,7 +649,8 @@
     "rectangle": "Suorakulmio",
     "selection": "Valinta",
     "text": "Teksti",
-    "textToDiagram": "tekstiä kaavioon"
+    "textToDiagram": "tekstiä kaavioon",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "Käyttäjiä ei löytynyt",
@@ -673,7 +673,14 @@
       "helpHint": "Pikanäppäimet & ohje",
       "menuHint": "Vie, asetukset ja lisää...",
       "tipsInfo": "Työkalutiedot",
-      "toolbarHint": "Valitse työkalu ja aloita piirtäminen!"
+      "toolbarHint": "Valitse työkalu ja aloita piirtäminen!",
+      "editCode": "Muokata koodia"
     }
-  }
+  },
+  "chatInputPlaceholder": "Anna tiedot",
+  "copyTextError": "Kopiohäiriö",
+  "copyTextOk": "Replikointi",
+  "SendChatTips": "Anna sisältö",
+  "Apikey_does_not_exist": "Apikey ei ole olemassa",
+  "deleteChatAll": "Selkeä chat -tietue"
 }

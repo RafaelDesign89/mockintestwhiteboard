@@ -648,7 +648,8 @@
     "rectangle": "прямокутник",
     "selection": "вибрати",
     "text": "Слово",
-    "textToDiagram": "текст у діаграму"
+    "textToDiagram": "текст у діаграму",
+    "chat": "AI Питання та відповіді"
   },
   "userList": {
     "empty": "Користувача не знайдено",
@@ -671,7 +672,14 @@
       "helpHint": "Комбінації клавіш і довідка",
       "menuHint": "Експорт, налаштування...",
       "tipsInfo": "Інформація про інструмент",
-      "toolbarHint": "Виберіть інструмент і починайте малювати!"
+      "toolbarHint": "Виберіть інструмент і починайте малювати!",
+      "editCode": "Відредагуйте код"
     }
-  }
+  },
+  "chatInputPlaceholder": "Введіть інформацію",
+  "copyTextError": "Копіювати збій",
+  "copyTextOk": "Реплікація",
+  "SendChatTips": "Введіть вміст",
+  "Apikey_does_not_exist": "Apikey не існує",
+  "deleteChatAll": "Чіткий запис чату"
 }

@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "텍스트 생성 프로토타입",
   "alerts": {
     "cannotExportEmptyCanvas": "빈 캔버스를 내보낼 수 없습니다.",
@@ -650,7 +649,8 @@
     "rectangle": "사각형",
     "selection": "선택",
     "text": "텍스트",
-    "textToDiagram": "차트에 텍스트"
+    "textToDiagram": "차트에 텍스트",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "사용자를 찾을 수 없습니다.",
@@ -673,7 +673,14 @@
       "helpHint": "단축키 & 도움말",
       "menuHint": "내보내기, 설정, 등등...",
       "tipsInfo": "도구 정보",
-      "toolbarHint": "도구를 선택하고, 그리세요!"
+      "toolbarHint": "도구를 선택하고, 그리세요!",
+      "editCode": "코드를 편집하십시오"
     }
-  }
+  },
+  "chatInputPlaceholder": "정보를 입력하십시오",
+  "copyTextError": "사본 실패",
+  "copyTextOk": "복제",
+  "SendChatTips": "내용을 입력하십시오",
+  "Apikey_does_not_exist": "Apikey는 존재하지 않습니다",
+  "deleteChatAll": "명확한 채팅 기록"
 }

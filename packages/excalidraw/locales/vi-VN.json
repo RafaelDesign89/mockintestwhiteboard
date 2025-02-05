@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Nguyên mẫu tạo văn bản",
   "alerts": {
     "cannotExportEmptyCanvas": "Không thể xuất canvas trống.",
@@ -650,7 +649,8 @@
     "rectangle": "Hình chữ nhật",
     "selection": "Lựa chọn",
     "text": "Văn bản",
-    "textToDiagram": "văn bản thành biểu đồ"
+    "textToDiagram": "văn bản thành biểu đồ",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "Không tìm thấy người dùng",
@@ -673,7 +673,14 @@
       "helpHint": "Phím tắt và trợ giúp",
       "menuHint": "Xuất khẩu, tùy chọn...",
       "tipsInfo": "Thông tin công cụ",
-      "toolbarHint": "Chọn một công cụ và bắt đầu vẽ!"
+      "toolbarHint": "Chọn một công cụ và bắt đầu vẽ!",
+      "editCode": "Chỉnh sửa mã"
     }
-  }
+  },
+  "chatInputPlaceholder": "Vui lòng nhập thông tin",
+  "copyTextError": "Sao chép thất bại",
+  "copyTextOk": "Nhân rộng",
+  "SendChatTips": "Vui lòng nhập nội dung",
+  "Apikey_does_not_exist": "Apikey không tồn tại",
+  "deleteChatAll": "Rõ ràng hồ sơ trò chuyện"
 }

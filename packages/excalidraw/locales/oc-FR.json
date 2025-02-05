@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototipe de generacion de tèxte",
   "alerts": {
     "cannotExportEmptyCanvas": "Impossible d’exportar los canabasses voids.",
@@ -650,7 +649,8 @@
     "rectangle": "Rectangle",
     "selection": "Seleccion",
     "text": "Tèxt",
-    "textToDiagram": "tèxte al tablèu"
+    "textToDiagram": "tèxte al tablèu",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "Cap d'utilizaire pas trobat",
@@ -673,7 +673,14 @@
       "helpHint": "Acorchis e ajuda",
       "menuHint": "Exportar, preferéncias, e mai...",
       "tipsInfo": "Informacion sus l'aisina",
-      "toolbarHint": "Prenètz un esplech e començatz de dessenhar !"
+      "toolbarHint": "Prenètz un esplech e començatz de dessenhar !",
+      "editCode": "Modificar lo còde ."
     }
-  }
+  },
+  "chatInputPlaceholder": "Apréner las informacions",
+  "copyTextError": "Avariat la còpia",
+  "copyTextOk": "Replicacion",
+  "SendChatTips": "Picatz lo contengut",
+  "Apikey_does_not_exist": "Apikey existís pas .",
+  "deleteChatAll": "Registro de Chat Claro ."
 }

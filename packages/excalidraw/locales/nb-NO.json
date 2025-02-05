@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Tekstgenereringsprototype",
   "alerts": {
     "cannotExportEmptyCanvas": "Kan ikke eksportere et tomt lerret.",
@@ -650,7 +649,8 @@
     "rectangle": "Rektangel",
     "selection": "Velg",
     "text": "Tekst",
-    "textToDiagram": "tekst til diagram"
+    "textToDiagram": "tekst til diagram",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "Ingen bruker funnet",
@@ -673,7 +673,14 @@
       "helpHint": "Snarveier & hjelp",
       "menuHint": "Eksporter, innstillinger og mer...",
       "tipsInfo": "Verktøyinformasjon",
-      "toolbarHint": "Velg et verktøy og start å tegne!"
+      "toolbarHint": "Velg et verktøy og start å tegne!",
+      "editCode": "Rediger koden"
     }
-  }
+  },
+  "chatInputPlaceholder": "Vennligst skriv inn informasjonen",
+  "copyTextError": "Kopieringssvikt",
+  "copyTextOk": "Replikering",
+  "SendChatTips": "Vennligst skriv inn innholdet",
+  "Apikey_does_not_exist": "Apikey eksisterer ikke",
+  "deleteChatAll": "Klar chatrekord"
 }

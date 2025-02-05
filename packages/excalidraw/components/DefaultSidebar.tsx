@@ -3,6 +3,7 @@ import {
   CANVAS_SEARCH_TAB,
   DEFAULT_SIDEBAR,
   LIBRARY_SIDEBAR_TAB,
+  CANVAS_CHAT_TAB,
 } from "../constants";
 import { useTunnels } from "../context/tunnels";
 import { useUIAppState } from "../context/ui-appState";
@@ -16,6 +17,8 @@ import { Sidebar } from "./Sidebar/Sidebar";
 import "../components/dropdownMenu/DropdownMenu.scss";
 import { SearchMenu } from "./SearchMenu";
 import { LibraryIcon, searchIcon } from "./icons";
+import { ChatMenu } from "./ChatMenu/ChatMenu";
+import { RiRobot2Line } from "react-icons/ri";
 
 const DefaultSidebarTrigger = withInternalFallback(
   "DefaultSidebarTrigger",
@@ -99,6 +102,9 @@ export const DefaultSidebar = Object.assign(
                 <Sidebar.TabTrigger tab={LIBRARY_SIDEBAR_TAB}>
                   {LibraryIcon}
                 </Sidebar.TabTrigger>
+                <Sidebar.TabTrigger tab={CANVAS_CHAT_TAB}>
+                  <RiRobot2Line />
+                </Sidebar.TabTrigger>
                 <DefaultSidebarTabTriggersTunnel.Out />
               </Sidebar.TabTriggers>
             </Sidebar.Header>
@@ -107,6 +113,9 @@ export const DefaultSidebar = Object.assign(
             </Sidebar.Tab>
             <Sidebar.Tab tab={CANVAS_SEARCH_TAB}>
               <SearchMenu />
+            </Sidebar.Tab>
+            <Sidebar.Tab tab={CANVAS_CHAT_TAB}>
+              <ChatMenu />
             </Sidebar.Tab>
             {children}
           </Sidebar.Tabs>

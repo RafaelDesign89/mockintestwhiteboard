@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Teksto generavimo prototipas",
   "alerts": {
     "cannotExportEmptyCanvas": "Nepavyko eksportuoti tuščios drobės.",
@@ -650,7 +649,8 @@
     "rectangle": "Stačiakampis",
     "selection": "Žymėjimas",
     "text": "Tekstas",
-    "textToDiagram": "tekstas į diagramą"
+    "textToDiagram": "tekstas į diagramą",
+    "chat": "AI klausimai ir a"
   },
   "userList": {
     "empty": "Vartotojas nerastas",
@@ -673,7 +673,14 @@
       "helpHint": "Spartieji klavišai ir pagalba",
       "menuHint": "Eksportas, nuostatos...",
       "tipsInfo": "Informacija apie įrankį",
-      "toolbarHint": "Pasirinkite įrankį ir pradėkite piešti!"
+      "toolbarHint": "Pasirinkite įrankį ir pradėkite piešti!",
+      "editCode": "Redaguokite kodą"
     }
-  }
+  },
+  "chatInputPlaceholder": "Įveskite informaciją",
+  "copyTextError": "Kopijuoti gedimą",
+  "copyTextOk": "Replikacija",
+  "SendChatTips": "Įveskite turinį",
+  "Apikey_does_not_exist": "Apikey neegzistuoja",
+  "deleteChatAll": "Aiškus pokalbių įrašas"
 }

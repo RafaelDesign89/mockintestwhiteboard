@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "ต้นแบบการสร้างข้อความ",
   "alerts": {
     "cannotExportEmptyCanvas": "ไม่สามารถนำออกจากผืนผ้าใบที่ว่างเปล่าได้",
@@ -650,7 +649,8 @@
     "rectangle": "สี่เหลี่ยมผืนผ้า",
     "selection": "เลือก",
     "text": "ข้อความ",
-    "textToDiagram": "ข้อความเป็นแผนภูมิ"
+    "textToDiagram": "ข้อความเป็นแผนภูมิ",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "ไม่พบผู้ใช้",
@@ -673,7 +673,14 @@
       "helpHint": "ปุ่มลัดและความช่วยเหลือ",
       "menuHint": "ส่งออก การตั้งค่า...",
       "tipsInfo": "ข้อมูลเครื่องมือ",
-      "toolbarHint": "เลือกเครื่องมือและเริ่มวาด!"
+      "toolbarHint": "เลือกเครื่องมือและเริ่มวาด!",
+      "editCode": "แก้ไขรหัส"
     }
-  }
+  },
+  "chatInputPlaceholder": "กรุณากรอกข้อมูล",
+  "copyTextError": "ความล้มเหลวในการคัดลอก",
+  "copyTextOk": "การทำซ้ำ",
+  "SendChatTips": "กรุณากรอกเนื้อหา",
+  "Apikey_does_not_exist": "Apikey ไม่มีอยู่จริง",
+  "deleteChatAll": "บันทึกการแชทล้าง"
 }

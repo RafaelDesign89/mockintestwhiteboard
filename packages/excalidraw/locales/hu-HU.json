@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Szöveggeneráló prototípus",
   "alerts": {
     "cannotExportEmptyCanvas": "Üres vászont nem lehet exportálni.",
@@ -650,7 +649,8 @@
     "rectangle": "Téglalap",
     "selection": "Kijelölés",
     "text": "Szöveg",
-    "textToDiagram": "szöveget a diagramhoz"
+    "textToDiagram": "szöveget a diagramhoz",
+    "chat": "AI kérdések és válaszok"
   },
   "userList": {
     "empty": "Nem található felhasználó",
@@ -673,7 +673,14 @@
       "helpHint": "Gyorsbillentyűk és súgó",
       "menuHint": "Exportálás, beállítások...",
       "tipsInfo": "Eszköz információk",
-      "toolbarHint": "Válassz egy eszközt és kezdj el rajzolni!"
+      "toolbarHint": "Válassz egy eszközt és kezdj el rajzolni!",
+      "editCode": "Szerkessze a kódot"
     }
-  }
+  },
+  "chatInputPlaceholder": "Kérjük, írja be az információkat",
+  "copyTextError": "Másolás meghibásodása",
+  "copyTextOk": "Replikáció",
+  "SendChatTips": "Kérjük, írja be a tartalmat",
+  "Apikey_does_not_exist": "Apikey nem létezik",
+  "deleteChatAll": "Tiszta csevegési rekord"
 }

@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "टेक्स्ट जेनरेशन प्रोटोटाइप",
   "alerts": {
     "cannotExportEmptyCanvas": "खाली कैनवास निर्यात नहीं कर सकता।",
@@ -650,7 +649,8 @@
     "rectangle": "आयात",
     "selection": "चयन",
     "text": "पाठ",
-    "textToDiagram": "चार्ट के लिए पाठ"
+    "textToDiagram": "चार्ट के लिए पाठ",
+    "chat": "ऐ क्यू एंड ए"
   },
   "userList": {
     "empty": "कोई उपयोगकर्ता नहीं मिला",
@@ -673,7 +673,14 @@
       "helpHint": "शॉर्ट्कट और सहाय्य",
       "menuHint": "निर्यात, पसंद, और भी...",
       "tipsInfo": "उपकरण की जानकारी",
-      "toolbarHint": "एक औजार चुने और चित्रकारी प्रारंभ करे!"
+      "toolbarHint": "एक औजार चुने और चित्रकारी प्रारंभ करे!",
+      "editCode": "कोड संपादित करें"
     }
-  }
+  },
+  "chatInputPlaceholder": "कृपया जानकारी दर्ज करें",
+  "copyTextError": "प्रतिलिपि विफलता",
+  "copyTextOk": "प्रतिकृति",
+  "SendChatTips": "कृपया सामग्री दर्ज करें",
+  "Apikey_does_not_exist": "Apikey मौजूद नहीं है",
+  "deleteChatAll": "स्पष्ट चैट रिकॉर्ड"
 }

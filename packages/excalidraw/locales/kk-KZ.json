@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Мәтінді құру прототипі",
   "alerts": {
     "cannotExportEmptyCanvas": "Бос кенепті экспорттау мүмкін емес.",
@@ -650,7 +649,8 @@
     "rectangle": "төртбұрыш",
     "selection": "таңдау",
     "text": "Мәтін",
-    "textToDiagram": "диаграммаға мәтін"
+    "textToDiagram": "диаграммаға мәтін",
+    "chat": "Ai Q & A"
   },
   "userList": {
     "empty": "Ешбір пайдаланушы табылмады",
@@ -673,7 +673,14 @@
       "helpHint": "Пернелер тіркесімі және анықтама",
       "menuHint": "Экспорттау, теңшелімдер...",
       "tipsInfo": "Құрал туралы ақпарат",
-      "toolbarHint": "Құралды таңдап, сурет салуды бастаңыз!"
+      "toolbarHint": "Құралды таңдап, сурет салуды бастаңыз!",
+      "editCode": "Кодты өңдеңіз"
     }
-  }
+  },
+  "chatInputPlaceholder": "Ақпаратты енгізіңіз",
+  "copyTextError": "Көшіру сәтсіздігі",
+  "copyTextOk": "Репликация",
+  "SendChatTips": "Мазмұнды енгізіңіз",
+  "Apikey_does_not_exist": "Апикей жоқ",
+  "deleteChatAll": "Таза сөйлесу жазбасы"
 }

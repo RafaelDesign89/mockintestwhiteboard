@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "পাঠ্য প্রজন্মের প্রোটোটাইপ",
   "alerts": {
     "cannotExportEmptyCanvas": "খালি ক্যানভাস নিবদ্ধ করা যাবে না।",
@@ -650,7 +649,8 @@
     "rectangle": "আয়তক্ষেত্র",
     "selection": "বাছাই",
     "text": "লেখা",
-    "textToDiagram": "চার্টে পাঠ্য"
+    "textToDiagram": "চার্টে পাঠ্য",
+    "chat": "এআই প্রশ্নোত্তর"
   },
   "userList": {
     "empty": "কোনো ব্যবহারকারী পাওয়া যায়নি",
@@ -673,7 +673,14 @@
       "helpHint": "শর্টকাট কী এবং সাহায্য",
       "menuHint": "রপ্তানি, পছন্দ...",
       "tipsInfo": "টুল তথ্য",
-      "toolbarHint": "একটি টুল চয়ন করুন এবং অঙ্কন শুরু করুন!"
+      "toolbarHint": "একটি টুল চয়ন করুন এবং অঙ্কন শুরু করুন!",
+      "editCode": "কোড সম্পাদনা করুন"
     }
-  }
+  },
+  "chatInputPlaceholder": "তথ্য লিখুন দয়া করে",
+  "copyTextError": "অনুলিপি ব্যর্থতা",
+  "copyTextOk": "প্রতিলিপি",
+  "SendChatTips": "বিষয়বস্তু লিখুন দয়া করে",
+  "Apikey_does_not_exist": "অ্যাপিকির অস্তিত্ব নেই",
+  "deleteChatAll": "চ্যাট রেকর্ড সাফ করুন"
 }

@@ -648,7 +648,8 @@
     "rectangle": "taisnstūris",
     "selection": "izvēlēties",
     "text": "Vārds",
-    "textToDiagram": "tekstu diagrammā"
+    "textToDiagram": "tekstu diagrammā",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Lietotājs nav atrasts",
@@ -671,7 +672,14 @@
       "helpHint": "Īsinājumtaustiņi un palīdzība",
       "menuHint": "Eksportēt, preferences...",
       "tipsInfo": "Informācija par rīkiem",
-      "toolbarHint": "Izvēlieties rīku un sāciet zīmēt!"
+      "toolbarHint": "Izvēlieties rīku un sāciet zīmēt!",
+      "editCode": "Rediģēt kodu"
     }
-  }
+  },
+  "chatInputPlaceholder": "Lūdzu, ievadiet informāciju",
+  "copyTextError": "Kopijas kļūmes",
+  "copyTextOk": "Replikācija",
+  "SendChatTips": "Lūdzu, ievadiet saturu",
+  "Apikey_does_not_exist": "Apikey neeksistē",
+  "deleteChatAll": "Skaidrs tērzēšanas ieraksts"
 }

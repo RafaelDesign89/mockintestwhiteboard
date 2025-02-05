@@ -648,7 +648,8 @@
     "rectangle": "מַלבֵּן",
     "selection": "לִבחוֹר",
     "text": "מִלָה",
-    "textToDiagram": "טקסט לתרשים"
+    "textToDiagram": "טקסט לתרשים",
+    "chat": "AI שאלות ותשובות"
   },
   "userList": {
     "empty": "לא נמצא משתמש",
@@ -671,7 +672,14 @@
       "helpHint": "מקשי קיצור ועזרה",
       "menuHint": "ייצוא, העדפות...",
       "tipsInfo": "מידע על הכלי",
-      "toolbarHint": "בחרו כלי והתחילו לצייר!"
+      "toolbarHint": "בחרו כלי והתחילו לצייר!",
+      "editCode": "ערוך את הקוד"
     }
-  }
+  },
+  "chatInputPlaceholder": "אנא הזן את המידע",
+  "copyTextError": "עותק כישלון",
+  "copyTextOk": "שכפול",
+  "SendChatTips": "אנא הכנס את התוכן",
+  "Apikey_does_not_exist": "אפיקי לא קיים",
+  "deleteChatAll": "ברורה רשומת צ'אט"
 }

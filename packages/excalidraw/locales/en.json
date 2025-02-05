@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Text generation prototype",
   "alerts": {
     "cannotExportEmptyCanvas": "Cannot export empty canvas.",
@@ -650,7 +649,8 @@
     "rectangle": "Rectangle",
     "selection": "Selection",
     "text": "Text",
-    "textToDiagram": "text to chart"
+    "textToDiagram": "text to chart",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "No users found",
@@ -673,7 +673,14 @@
       "helpHint": "Shortcuts & help",
       "menuHint": "Export, preferences, and more...",
       "tipsInfo": "Tool information",
-      "toolbarHint": "Pick a tool & Start drawing!"
+      "toolbarHint": "Pick a tool & Start drawing!",
+      "editCode": "Edit the code"
     }
-  }
+  },
+  "chatInputPlaceholder": "Please enter the information",
+  "copyTextError": "Copy failure",
+  "copyTextOk": "Replication",
+  "SendChatTips": "Please enter the content",
+  "Apikey_does_not_exist": "Apikey does not exist",
+  "deleteChatAll": "Clear Chat Record"
 }

@@ -139,6 +139,7 @@ export type ActionName =
   | "autoResize"
   | "elementStats"
   | "searchMenu"
+  | "chatMenu"
   | "toggleShortcutsTipsInfo"
   | "toggleShortcutsEditCode";
 
@@ -195,6 +196,7 @@ export interface Action {
     | "menu"
     | "collab"
     | "hyperlink"
+    | "chat_menu"
     | "search_menu";
     action?: string;
     predicate?: (

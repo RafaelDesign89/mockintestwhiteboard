@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "文字生成原型",
   "alerts": {
     "cannotExportEmptyCanvas": "无法导出空白画布。",
@@ -650,7 +649,8 @@
     "rectangle": "矩形",
     "selection": "选择",
     "text": "文字",
-    "textToDiagram": "文字至图表"
+    "textToDiagram": "文字至图表",
+    "chat": "AI问答"
   },
   "userList": {
     "empty": "没有找到用户",
@@ -673,7 +673,14 @@
       "helpHint": "快捷键和帮助",
       "menuHint": "导出、首选项……",
       "tipsInfo": "工具信息",
-      "toolbarHint": "选择工具并开始绘图！"
+      "toolbarHint": "选择工具并开始绘图！",
+      "editCode": "编辑代码"
     }
-  }
+  },
+  "chatInputPlaceholder": "请输入信息",
+  "copyTextError": "复制失败",
+  "copyTextOk": "复制成功",
+  "SendChatTips": "请输入内容",
+  "Apikey_does_not_exist": "ApiKey不存在",
+  "deleteChatAll": "清空聊天记录"
 }

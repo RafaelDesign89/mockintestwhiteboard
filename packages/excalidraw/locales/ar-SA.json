@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "نموذج توليد النص",
   "alerts": {
     "cannotExportEmptyCanvas": "لا يمكن تصدير لوحة فارغة.",
@@ -650,7 +649,8 @@
     "rectangle": "مستطيل",
     "selection": "تحديد",
     "text": "نص",
-    "textToDiagram": "النص إلى الرسم البياني"
+    "textToDiagram": "النص إلى الرسم البياني",
+    "chat": "منظمة العفو الدولية سؤال وجواب"
   },
   "userList": {
     "empty": "لم يتم العثور على مستخدم",
@@ -673,7 +673,14 @@
       "helpHint": "الاختصارات و المساعدة",
       "menuHint": "التصدير والتفضيلات وغيرها...",
       "tipsInfo": "معلومات الأداة",
-      "toolbarHint": "اختر أداة و ابدأ الرسم!"
+      "toolbarHint": "اختر أداة و ابدأ الرسم!",
+      "editCode": "تحرير الرمز"
     }
-  }
+  },
+  "chatInputPlaceholder": "الرجاء إدخال المعلومات",
+  "copyTextError": "نسخ فشل",
+  "copyTextOk": "النسخ المتماثل",
+  "SendChatTips": "الرجاء إدخال المحتوى",
+  "Apikey_does_not_exist": "Apikey غير موجود",
+  "deleteChatAll": "سجل دردشة واضح"
 }

@@ -126,6 +126,7 @@ export type ToolType =
   | "hand"
   | "frame"
   | "magicframe"
+  | "chat"
   | "textToDiagram"
   | "embeddable"
   | "laser";
@@ -223,6 +224,7 @@ export type ObservedElementsAppState = {
 };
 
 export interface AppState {
+  isDeleteChatData: boolean;
   contextMenu: {
     items: ContextMenuItems;
     top: number;

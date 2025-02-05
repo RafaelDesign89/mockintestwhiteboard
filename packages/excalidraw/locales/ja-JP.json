@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "テキスト生成プロトタイプ",
   "alerts": {
     "cannotExportEmptyCanvas": "空のキャンバスはエクスポートできません。",
@@ -650,7 +649,8 @@
     "rectangle": "矩形",
     "selection": "選択",
     "text": "テキスト",
-    "textToDiagram": "テキストからグラフへ"
+    "textToDiagram": "テキストからグラフへ",
+    "chat": "AI Q＆A"
   },
   "userList": {
     "empty": "ユーザーが見つかりません",
@@ -673,7 +673,14 @@
       "helpHint": "ショートカットとヘルプ",
       "menuHint": "エクスポート、設定、その他...",
       "tipsInfo": "ツール情報",
-      "toolbarHint": "ツールを選んで描き始めよう！"
+      "toolbarHint": "ツールを選んで描き始めよう！",
+      "editCode": "コードを編集します"
     }
-  }
+  },
+  "chatInputPlaceholder": "情報を入力してください",
+  "copyTextError": "失敗をコピーします",
+  "copyTextOk": "複製",
+  "SendChatTips": "コンテンツを入力してください",
+  "Apikey_does_not_exist": "Apikeyは存在しません",
+  "deleteChatAll": "クリアチャットレコード"
 }

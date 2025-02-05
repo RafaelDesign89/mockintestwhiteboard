@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "စာသားဖန်တီးမှု ရှေ့ပြေးပုံစံ",
   "alerts": {
     "cannotExportEmptyCanvas": "ကားချပ်အလွတ်အားထုတ်ယူ၍မရပါ။",
@@ -650,7 +649,8 @@
     "rectangle": "စတုဂံ",
     "selection": "ရွေးချယ်",
     "text": "စာသား",
-    "textToDiagram": "ဇယားသို့စာသား"
+    "textToDiagram": "ဇယားသို့စာသား",
+    "chat": "Ai Q & A"
   },
   "userList": {
     "empty": "အသုံးပြုသူ မတွေ့ပါ။",
@@ -673,7 +673,14 @@
       "helpHint": "ဖြတ်လမ်းခလုတ်များနှင့် အကူအညီ",
       "menuHint": "ပို့ကုန်၊ စိတ်ကြိုက်များ...",
       "tipsInfo": "ကိရိယာအချက်အလက်",
-      "toolbarHint": "ကိရိယာတစ်ခုကို ရွေးပြီး ပုံဆွဲပါ။"
+      "toolbarHint": "ကိရိယာတစ်ခုကို ရွေးပြီး ပုံဆွဲပါ။",
+      "editCode": "ကုဒ်ကိုတည်းဖြတ်ပါ"
     }
-  }
+  },
+  "chatInputPlaceholder": "ကျေးဇူးပြု. အချက်အလက်ထည့်ပါ",
+  "copyTextError": "မအောင်မြင်ပါ",
+  "copyTextOk": "ပွားခြင်း",
+  "SendChatTips": "ကျေးဇူးပြုပြီးအကြောင်းအရာကိုရိုက်ထည့်ပါ",
+  "Apikey_does_not_exist": "Apikey မတည်ရှိပါဘူး",
+  "deleteChatAll": "chat chat chat chat"
 }

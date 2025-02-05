@@ -648,7 +648,8 @@
     "rectangle": "ចតុកោណ",
     "selection": "ជ្រើសរើស",
     "text": "ពាក្យ",
-    "textToDiagram": "អត្ថបទទៅគំនូសតាង"
+    "textToDiagram": "អត្ថបទទៅគំនូសតាង",
+    "chat": "ai Q & a"
   },
   "userList": {
     "empty": "រកមិនឃើញអ្នកប្រើប្រាស់ទេ។",
@@ -671,7 +672,14 @@
       "helpHint": "គ្រាប់ចុចផ្លូវកាត់ និងជំនួយ",
       "menuHint": "ការនាំចេញ ចំណូលចិត្ត...",
       "tipsInfo": "ព័ត៌មានអំពីឧបករណ៍",
-      "toolbarHint": "ជ្រើសរើសឧបករណ៍ ហើយចាប់ផ្តើមគូរ!"
+      "toolbarHint": "ជ្រើសរើសឧបករណ៍ ហើយចាប់ផ្តើមគូរ!",
+      "editCode": "កែសម្រួលកូដ"
     }
-  }
+  },
+  "chatInputPlaceholder": "សូមបញ្ចូលព័ត៌មាន",
+  "copyTextError": "ចម្លងការបរាជ័យ",
+  "copyTextOk": "តមនិហងតឹមរបហ្ជី",
+  "SendChatTips": "សូមបញ្ចូលមាតិកា",
+  "Apikey_does_not_exist": "មិនមានទេ",
+  "deleteChatAll": "ច្បាស់កំណត់ត្រាជជែក"
 }

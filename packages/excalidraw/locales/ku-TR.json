@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototîpa nifşa nivîsê",
   "alerts": {
     "cannotExportEmptyCanvas": "ناتوانرێت تابلۆی بەتاڵ هەناردەبکرێت.",
@@ -650,7 +649,8 @@
     "rectangle": "لاکێشە",
     "selection": "دەستنیشانکردن",
     "text": "دەق",
-    "textToDiagram": "text to chart"
+    "textToDiagram": "text to chart",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "Bikarhêner nehat dîtin",
@@ -673,7 +673,14 @@
       "helpHint": "قەدبڕەکان و یارمەتی",
       "menuHint": "هەناردەکردن، ڕێکخستنەکان، و زیاتر...",
       "tipsInfo": "Agahdariya amûrê",
-      "toolbarHint": "ئامرازێک هەڵبگرە و دەستبکە بە کێشان!"
+      "toolbarHint": "ئامرازێک هەڵبگرە و دەستبکە بە کێشان!",
+      "editCode": "Koda biguherînin"
     }
-  }
+  },
+  "chatInputPlaceholder": "Ji kerema xwe agahdarî binivîse",
+  "copyTextError": "Têkçûna kopî bikin",
+  "copyTextOk": "Replînasyon",
+  "SendChatTips": "Ji kerema xwe naverokê binivîse",
+  "Apikey_does_not_exist": "Apikey nabe",
+  "deleteChatAll": "Danasîna Chat Clear"
 }

@@ -1,3 +1,4 @@
+import { RiRobot2Line } from "react-icons/ri";
 import {
   isPoint,
   pointFrom,
@@ -136,6 +137,13 @@ export const SHAPES = [
     value: "magicframe",
     key:null,
     numericKey: KEYS["C"],
+    fillable: false,
+  },
+  {
+    icon:<RiRobot2Line />,
+    value: "chat",
+    key: null,
+    numericKey: KEYS["M"],
     fillable: false,
   },
 ] as const;

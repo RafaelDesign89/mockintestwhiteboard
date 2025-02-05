@@ -648,7 +648,8 @@
     "rectangle": "rectangle",
     "selection": "choose",
     "text": "Word",
-    "textToDiagram": "text to chart"
+    "textToDiagram": "text to chart",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "No user found",
@@ -671,7 +672,14 @@
       "helpHint": "Shortcut keys and help",
       "menuHint": "Export, preferences...",
       "tipsInfo": "Tool information",
-      "toolbarHint": "Choose a tool and start drawing!"
+      "toolbarHint": "Choose a tool and start drawing!",
+      "editCode": "Edit the code"
     }
-  }
+  },
+  "chatInputPlaceholder": "Please enter the information",
+  "copyTextError": "Copy failure",
+  "copyTextOk": "Replication",
+  "SendChatTips": "Please enter the content",
+  "Apikey_does_not_exist": "Apikey does not exist",
+  "deleteChatAll": "Clear Chat Record"
 }

@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototipe pembuatan teks",
   "alerts": {
     "cannotExportEmptyCanvas": "Tidak bisa mengekspor kanvas kosong",
@@ -650,7 +649,8 @@
     "rectangle": "Persegi",
     "selection": "Pilihan",
     "text": "Teks",
-    "textToDiagram": "teks ke bagan"
+    "textToDiagram": "teks ke bagan",
+    "chat": "AI T&J"
   },
   "userList": {
     "empty": "Pengguna tidak ditemukan",
@@ -673,7 +673,14 @@
       "helpHint": "Pintasan & bantuan",
       "menuHint": "Ekspor, preferensi, dan selebihnya...",
       "tipsInfo": "Informasi alat",
-      "toolbarHint": "Pilih alat & mulai menggambar!"
+      "toolbarHint": "Pilih alat & mulai menggambar!",
+      "editCode": "Edit kode"
     }
-  }
+  },
+  "chatInputPlaceholder": "Harap masukkan informasinya",
+  "copyTextError": "Salin kegagalan",
+  "copyTextOk": "Replikasi",
+  "SendChatTips": "Harap masukkan konten",
+  "Apikey_does_not_exist": "Apikey tidak ada",
+  "deleteChatAll": "Hapus catatan obrolan"
 }

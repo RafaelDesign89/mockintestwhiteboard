@@ -648,7 +648,8 @@
     "rectangle": "rektangel",
     "selection": "vælge",
     "text": "Ord",
-    "textToDiagram": "tekst til diagram"
+    "textToDiagram": "tekst til diagram",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Ingen bruger fundet",
@@ -671,7 +672,14 @@
       "helpHint": "Genvejstaster og hjælp",
       "menuHint": "Eksport, præferencer...",
       "tipsInfo": "Værktøjsoplysninger",
-      "toolbarHint": "Vælg et værktøj og begynd at tegne!"
+      "toolbarHint": "Vælg et værktøj og begynd at tegne!",
+      "editCode": "Rediger koden"
     }
-  }
+  },
+  "chatInputPlaceholder": "Indtast oplysningerne",
+  "copyTextError": "Kopierfejl",
+  "copyTextOk": "Replikation",
+  "SendChatTips": "Indtast indholdet",
+  "Apikey_does_not_exist": "Apikey eksisterer ikke",
+  "deleteChatAll": "Klar chatrekord"
 }

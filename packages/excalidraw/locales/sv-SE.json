@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototyp för textgenerering",
   "alerts": {
     "cannotExportEmptyCanvas": "Kan inte exportera tom canvas.",
@@ -650,7 +649,8 @@
     "rectangle": "Rektangel",
     "selection": "Markering",
     "text": "Text",
-    "textToDiagram": "text till diagram"
+    "textToDiagram": "text till diagram",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Ingen användare hittades",
@@ -673,7 +673,14 @@
       "helpHint": "Genvägar & hjälp",
       "menuHint": "Exportera, inställningar och mer...",
       "tipsInfo": "Verktygsinformation",
-      "toolbarHint": "Välj ett verktyg & börja rita!"
+      "toolbarHint": "Välj ett verktyg & börja rita!",
+      "editCode": "Redigera koden"
     }
-  }
+  },
+  "chatInputPlaceholder": "Ange informationen",
+  "copyTextError": "Kopieringsfel",
+  "copyTextOk": "Replikation",
+  "SendChatTips": "Ange innehållet",
+  "Apikey_does_not_exist": "Apikey finns inte",
+  "deleteChatAll": "Tydlig chattrekord"
 }

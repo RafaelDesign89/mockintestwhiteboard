@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "文字生成原型",
   "alerts": {
     "cannotExportEmptyCanvas": "無法輸出空白的 canvas。",
@@ -650,7 +649,8 @@
     "rectangle": "長方形",
     "selection": "選取",
     "text": "文字",
-    "textToDiagram": "文字至圖表"
+    "textToDiagram": "文字至圖表",
+    "chat": "AI問答"
   },
   "userList": {
     "empty": "沒有找到用戶",
@@ -673,7 +673,14 @@
       "helpHint": "快速鍵與說明",
       "menuHint": "輸出、偏好設定及其他...",
       "tipsInfo": "工具資訊",
-      "toolbarHint": "選個工具開始畫圖吧！"
+      "toolbarHint": "選個工具開始畫圖吧！",
+      "editCode": "編輯代碼"
     }
-  }
+  },
+  "chatInputPlaceholder": "請輸入信息",
+  "copyTextError": "複製失敗",
+  "copyTextOk": "複製成功",
+  "SendChatTips": "請輸入內容",
+  "Apikey_does_not_exist": "ApiKey不存在",
+  "deleteChatAll": "清空聊天記錄"
 }

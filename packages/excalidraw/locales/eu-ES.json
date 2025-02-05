@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Testuak sortzeko prototipoa",
   "alerts": {
     "cannotExportEmptyCanvas": "Ezin izan da oihal hutsa esportatu.",
@@ -650,7 +649,8 @@
     "rectangle": "Laukizuzena",
     "selection": "Hautapena",
     "text": "Testua",
-    "textToDiagram": "diagramarako testua"
+    "textToDiagram": "diagramarako testua",
+    "chat": "Ai Q & A"
   },
   "userList": {
     "empty": "Ez da erabiltzailea aurkitu",
@@ -673,7 +673,14 @@
       "helpHint": "Lasterbideak eta laguntza",
       "menuHint": "Esportatu, hobespenak eta gehiago...",
       "tipsInfo": "Erremintaren informazioa",
-      "toolbarHint": "Aukeratu tresna bat eta hasi marrazten!"
+      "toolbarHint": "Aukeratu tresna bat eta hasi marrazten!",
+      "editCode": "Editatu kodea"
     }
-  }
+  },
+  "chatInputPlaceholder": "Mesedez, idatzi informazioa",
+  "copyTextError": "Kopiatu porrota",
+  "copyTextOk": "Berriz erantzun",
+  "SendChatTips": "Mesedez, sartu edukia",
+  "Apikey_does_not_exist": "Apikey ez da existitzen",
+  "deleteChatAll": "Txat-erregistroa garbitu"
 }

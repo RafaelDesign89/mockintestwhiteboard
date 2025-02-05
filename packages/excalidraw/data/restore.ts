@@ -85,6 +85,7 @@ export const AllowedExcalidrawActiveTools: Record<
   laser: false,
   magicframe: false,
   textToDiagram:false,
+  chat: false,
 };
 
 export type RestoredDataState = {

@@ -648,7 +648,8 @@
     "rectangle": "ਆਇਤਕਾਰ",
     "selection": "ਚੁਣੋ",
     "text": "ਸ਼ਬਦ",
-    "textToDiagram": "ਚਾਰਟ ਲਈ ਟੈਕਸਟ"
+    "textToDiagram": "ਚਾਰਟ ਲਈ ਟੈਕਸਟ",
+    "chat": "ਏਈ ਪ੍ਰਸ਼ਨ ਅਤੇ ਏ"
   },
   "userList": {
     "empty": "ਉਪਭੋਗਤਾ ਨਹੀਂ ਮਿਲਿਆ",
@@ -671,7 +672,14 @@
       "helpHint": "ਸ਼ਾਰਟਕੱਟ ਕੁੰਜੀਆਂ ਅਤੇ ਮਦਦ",
       "menuHint": "ਨਿਰਯਾਤ, ਤਰਜੀਹਾਂ...",
       "tipsInfo": "ਟੂਲ ਜਾਣਕਾਰੀ",
-      "toolbarHint": "ਇੱਕ ਟੂਲ ਚੁਣੋ ਅਤੇ ਡਰਾਇੰਗ ਸ਼ੁਰੂ ਕਰੋ!"
+      "toolbarHint": "ਇੱਕ ਟੂਲ ਚੁਣੋ ਅਤੇ ਡਰਾਇੰਗ ਸ਼ੁਰੂ ਕਰੋ!",
+      "editCode": "ਕੋਡ ਨੂੰ ਸੋਧੋ"
     }
-  }
+  },
+  "chatInputPlaceholder": "ਕਿਰਪਾ ਕਰਕੇ ਜਾਣਕਾਰੀ ਦਰਜ ਕਰੋ",
+  "copyTextError": "ਕਾੱਪੀ ਅਸਫਲਤਾ",
+  "copyTextOk": "ਪ੍ਰਤੀਕ੍ਰਿਤੀ",
+  "SendChatTips": "ਕਿਰਪਾ ਕਰਕੇ ਸਮੱਗਰੀ ਦਾਖਲ ਕਰੋ",
+  "Apikey_does_not_exist": "ਅਪਿਕੀ ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
+  "deleteChatAll": "ਸਾਫ ਗੱਲਬਾਤ ਦਾ ਰਿਕਾਰਡ"
 }

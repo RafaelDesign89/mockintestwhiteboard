@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototip de generació de text",
   "alerts": {
     "cannotExportEmptyCanvas": "No es pot exportar un llenç buit.",
@@ -650,7 +649,8 @@
     "rectangle": "Rectangle",
     "selection": "Selecció",
     "text": "Text",
-    "textToDiagram": "text per gràfic"
+    "textToDiagram": "text per gràfic",
+    "chat": "Ai Q&A"
   },
   "userList": {
     "empty": "No s'ha trobat cap usuari",
@@ -673,7 +673,14 @@
       "helpHint": "Dreceres i ajuda",
       "menuHint": "Exportar, preferències i més...",
       "tipsInfo": "Informació de l'eina",
-      "toolbarHint": "Selecciona una eina i comença a dibuixar!"
+      "toolbarHint": "Selecciona una eina i comença a dibuixar!",
+      "editCode": "Editar el codi"
     }
-  }
+  },
+  "chatInputPlaceholder": "Introduïu la informació",
+  "copyTextError": "COPIA FALLA",
+  "copyTextOk": "Replicació",
+  "SendChatTips": "Introduïu el contingut",
+  "Apikey_does_not_exist": "Apikey no existeix",
+  "deleteChatAll": "Netegeu el registre de xat"
 }

@@ -3,11 +3,12 @@ import "./ToolIcon.scss";
 import type { CSSProperties } from "react";
 import React, { useEffect, useRef, useState } from "react";
 import clsx from "clsx";
-import { useExcalidrawContainer } from "./App";
+import { useExcalidrawActionManager, useExcalidrawContainer } from "./App";
 import { AbortError } from "../errors";
 import Spinner from "./Spinner";
 import type { PointerType } from "../element/types";
 import { isPromiseLike } from "../utils";
+import { actionToggleChatMenu } from "../actions/actionToggleChatMenu";
 
 export type ToolButtonSize = "small" | "medium";
 
@@ -152,6 +153,7 @@ export const ToolButton = React.forwardRef((props: ToolButtonProps, ref) => {
       </button>
     );
   }
+  const actionManager = useExcalidrawActionManager();
 
   return (
     <label
@@ -176,7 +178,11 @@ export const ToolButton = React.forwardRef((props: ToolButtonProps, ref) => {
         data-testid={props["data-testid"]}
         id={`${excalId}-${props.id}`}
         onChange={() => {
-          props.onChange?.({ pointerType: lastPointerTypeRef.current });
+          if(props["data-testid"] === 'toolbar-chat'){
+            actionManager.executeAction(actionToggleChatMenu);
+          }else{
+            props.onChange?.({ pointerType: lastPointerTypeRef.current });
+          }
         }}
         checked={props.checked}
         ref={innerRef}
@@ -187,7 +193,7 @@ export const ToolButton = React.forwardRef((props: ToolButtonProps, ref) => {
           <span className="ToolIcon__keybinding">{props.keyBindingLabel}</span>
         )}
       </div>
-      {(props["aria-keyshortcuts"] && ['i', 'c', 'I', 'C']?.indexOf(props["aria-keyshortcuts"]) > -1 )&&
+      {(props["aria-keyshortcuts"] && ['i', 'c', 'm', 'I', 'C', 'M']?.indexOf(props["aria-keyshortcuts"]) > -1) &&
         <div
           style={{
             display: "inline-flex",

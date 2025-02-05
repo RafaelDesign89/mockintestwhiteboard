@@ -648,7 +648,8 @@
     "rectangle": "retângulo",
     "selection": "escolher",
     "text": "Palavra",
-    "textToDiagram": "texto para gráfico"
+    "textToDiagram": "texto para gráfico",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Usuário não encontrado",
@@ -671,7 +672,14 @@
       "helpHint": "Teclas de atalho e ajuda",
       "menuHint": "Exportar, preferências...",
       "tipsInfo": "Informações da ferramenta",
-      "toolbarHint": "Escolha uma ferramenta e comece a desenhar!"
+      "toolbarHint": "Escolha uma ferramenta e comece a desenhar!",
+      "editCode": "Edite o código"
     }
-  }
+  },
+  "chatInputPlaceholder": "Por favor, insira a informação",
+  "copyTextError": "Falha na cópia",
+  "copyTextOk": "Replicação",
+  "SendChatTips": "Por favor, insira o conteúdo",
+  "Apikey_does_not_exist": "Apikey não existe",
+  "deleteChatAll": "Clear Chat Record"
 }

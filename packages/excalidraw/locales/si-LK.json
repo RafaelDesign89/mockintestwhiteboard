@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "පෙළ උත්පාදන මූලාකෘතිය",
   "alerts": {
     "cannotExportEmptyCanvas": "හිස් කැන්වස් අපනයනය කළ නොහැක.",
@@ -650,7 +649,8 @@
     "rectangle": "සෘජුකෝණාස්රය",
     "selection": "තෝරාගන්න",
     "text": "වචනය",
-    "textToDiagram": "ප්‍රස්ථාරයට පෙළ"
+    "textToDiagram": "ප්‍රස්ථාරයට පෙළ",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "පරිශීලකයෙකු හමු නොවීය",
@@ -673,7 +673,14 @@
       "helpHint": "කෙටිමං යතුරු සහ උදව්",
       "menuHint": "අපනයනය, මනාප...",
       "tipsInfo": "මෙවලම් තොරතුරු",
-      "toolbarHint": "මෙවලමක් තෝරා ඇඳීම ආරම්භ කරන්න!"
+      "toolbarHint": "මෙවලමක් තෝරා ඇඳීම ආරම්භ කරන්න!",
+      "editCode": "කේතය සංස්කරණය කරන්න"
     }
-  }
+  },
+  "chatInputPlaceholder": "කරුණාකර තොරතුරු ඇතුළත් කරන්න",
+  "copyTextError": "පිටපත් අසමත් වීම",
+  "copyTextOk": "අනුරූකරණය",
+  "SendChatTips": "කරුණාකර අන්තර්ගතය ඇතුළත් කරන්න",
+  "Apikey_does_not_exist": "Apicy නොපවතී",
+  "deleteChatAll": "පැහැදිලි චැට් වාර්තාව"
 }

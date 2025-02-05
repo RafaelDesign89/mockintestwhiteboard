@@ -448,6 +448,7 @@ import { searchItemInFocusAtom } from "./SearchMenu";
 import type { LocalPoint, Radians } from "../../math";
 import { pointFrom, pointDistance, vector } from "../../math";
 import { editCode, tipsInfo } from "../actions/actionMenu";
+import { actionToggleChatMenu } from "../actions/actionToggleChatMenu";
 
 const AppContext = React.createContext<AppClassProperties>(null!);
 const AppPropsContext = React.createContext<AppProps>(null!);
@@ -1906,7 +1907,7 @@ class App extends React.Component<AppProps, AppState> {
     if (result) {
       this.setAppState(result.appState);
       // @ts-ignore
-      const newelements = result.elements.filter(f=> !f.isDeleted)
+      const newelements = result.elements.filter(f => !f.isDeleted)
       this.scene.replaceAllElements(newelements)
     }
     if (!frameElement) {
@@ -2331,6 +2332,7 @@ class App extends React.Component<AppProps, AppState> {
     const scene = restore(initialData, null, null, { repairBindings: true });
     scene.appState = {
       ...scene.appState,
+      isDeleteChatData: false,
       theme: this.props.theme || scene.appState.theme,
       // we're falling back to current (pre-init) state when deciding
       // whether to open the library, to handle a case where we
@@ -4328,6 +4330,10 @@ class App extends React.Component<AppProps, AppState> {
         !this.state.selectedElementsAreBeingDragged
       ) {
         const shape = findShapeByKey(event.key);
+        if(shape === "chat"){
+          this.actionManager.executeAction(actionToggleChatMenu);
+          return;
+        }
         if (shape) {
           if (this.state.activeTool.type !== shape) {
             trackEvent(
@@ -6361,7 +6367,8 @@ class App extends React.Component<AppProps, AppState> {
     } else if (
       this.state.activeTool.type !== "eraser" &&
       this.state.activeTool.type !== "hand" &&
-      this.state.activeTool.type !== "textToDiagram"
+      this.state.activeTool.type !== "textToDiagram" &&
+      this.state.activeTool.type !== "chat"
     ) {
       this.createGenericElementOnPointerDown(
         this.state.activeTool.type,

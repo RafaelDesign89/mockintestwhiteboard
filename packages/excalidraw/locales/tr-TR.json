@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Metin oluşturma prototipi",
   "alerts": {
     "cannotExportEmptyCanvas": "Boş tuval dışarıya aktarılamaz.",
@@ -650,7 +649,8 @@
     "rectangle": "Dikdörtgen",
     "selection": "Seçme",
     "text": "Yazı",
-    "textToDiagram": "Grafiğe metin"
+    "textToDiagram": "Grafiğe metin",
+    "chat": "AI Soru -Cevap"
   },
   "userList": {
     "empty": "Kullanıcı bulunamadı",
@@ -673,7 +673,14 @@
       "helpHint": "Kısayollar & yardım",
       "menuHint": "Dışa aktar, seçenekler, ve daha fazlası...",
       "tipsInfo": "Araç bilgileri",
-      "toolbarHint": "Bir araç seçin ve çizime başlayın!"
+      "toolbarHint": "Bir araç seçin ve çizime başlayın!",
+      "editCode": "Kodu düzenle"
     }
-  }
+  },
+  "chatInputPlaceholder": "Lütfen bilgileri girin",
+  "copyTextError": "Kopyala başarısızlığı",
+  "copyTextOk": "Çoğaltma",
+  "SendChatTips": "Lütfen içeriği girin",
+  "Apikey_does_not_exist": "Apikey yok",
+  "deleteChatAll": "Sohbet Kaydı Temizle"
 }

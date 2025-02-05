@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Mətn yaratmaq prototipi",
   "alerts": {
     "cannotExportEmptyCanvas": "Boş kətanı ixrac etmək mümkün deyil.",
@@ -650,7 +649,8 @@
     "rectangle": "düzbucaqlı",
     "selection": "seçin",
     "text": "Söz",
-    "textToDiagram": "diaqrama mətn"
+    "textToDiagram": "diaqrama mətn",
+    "chat": "Ai Q & A"
   },
   "userList": {
     "empty": "İstifadəçi tapılmadı",
@@ -673,7 +673,14 @@
       "helpHint": "Qısayol düymələri və yardım",
       "menuHint": "İxrac, üstünlüklər...",
       "tipsInfo": "Alət məlumatları",
-      "toolbarHint": "Bir alət seçin və çəkməyə başlayın!"
+      "toolbarHint": "Bir alət seçin və çəkməyə başlayın!",
+      "editCode": "Kodunu düzəldin"
     }
-  }
+  },
+  "chatInputPlaceholder": "Zəhmət olmasa məlumat daxil edin",
+  "copyTextError": "Kopyalamaq",
+  "copyTextOk": "Replikasiya",
+  "SendChatTips": "Zəhmət olmasa məzmunu daxil edin",
+  "Apikey_does_not_exist": "Apikey yoxdur",
+  "deleteChatAll": "Cəhənni qeyd rekordunu təmizləyin"
 }

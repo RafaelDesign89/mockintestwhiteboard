@@ -186,6 +186,7 @@ export const HelpDialog = ({ onClose }: { onClose?: () => void }) => {
             />
             <Shortcut label={t("toolBar.textToDiagram")} shortcuts={[KEYS.I]} />
             <Shortcut label={t("toolBar.magicframe")} shortcuts={[KEYS.C]} />
+            <Shortcut label={t("toolBar.chat")} shortcuts={[KEYS.M]} />
             <Shortcut label={t("toolBar.frame")} shortcuts={[KEYS.F]} />
             <Shortcut label={t("toolBar.laser")} shortcuts={[KEYS.K]} />
             <Shortcut

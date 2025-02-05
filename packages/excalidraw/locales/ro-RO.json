@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototip de generare de text",
   "alerts": {
     "cannotExportEmptyCanvas": "Nu se poate exporta pânza goală.",
@@ -650,7 +649,8 @@
     "rectangle": "Dreptunghi",
     "selection": "Selecție",
     "text": "Text",
-    "textToDiagram": "text pe diagramă"
+    "textToDiagram": "text pe diagramă",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Utilizatorul nu a fost găsit",
@@ -673,7 +673,14 @@
       "helpHint": "Comenzi rapide și ajutor",
       "menuHint": "Exportare, preferințe și mai multe...",
       "tipsInfo": "Informații despre instrument",
-      "toolbarHint": "Alege un instrument și începe să desenezi!"
+      "toolbarHint": "Alege un instrument și începe să desenezi!",
+      "editCode": "Editați codul"
     }
-  }
+  },
+  "chatInputPlaceholder": "Vă rugăm să introduceți informațiile",
+  "copyTextError": "Copiere eșec",
+  "copyTextOk": "Replicare",
+  "SendChatTips": "Vă rugăm să introduceți conținutul",
+  "Apikey_does_not_exist": "Apikey nu există",
+  "deleteChatAll": "Ștergeți înregistrarea de chat"
 }

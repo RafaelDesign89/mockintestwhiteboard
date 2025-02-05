@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Прототип генерации текста",
   "alerts": {
     "cannotExportEmptyCanvas": "Не может экспортировать пустой холст.",
@@ -650,7 +649,8 @@
     "rectangle": "Прямоугольник",
     "selection": "Выделение области",
     "text": "Текст",
-    "textToDiagram": "текст в диаграмму"
+    "textToDiagram": "текст в диаграмму",
+    "chat": "AI Q & A"
   },
   "userList": {
     "empty": "Пользователь не найден",
@@ -673,7 +673,14 @@
       "helpHint": "Сочетания клавиш и помощь",
       "menuHint": "Экспорт, настройки и другое...",
       "tipsInfo": "Информация об инструменте",
-      "toolbarHint": "Выберите инструмент и начните рисовать!"
+      "toolbarHint": "Выберите инструмент и начните рисовать!",
+      "editCode": "Изменить код"
     }
-  }
+  },
+  "chatInputPlaceholder": "Пожалуйста, введите информацию",
+  "copyTextError": "Копировать сбой",
+  "copyTextOk": "Репликация",
+  "SendChatTips": "Пожалуйста, введите контент",
+  "Apikey_does_not_exist": "Apikey не существует",
+  "deleteChatAll": "Очистить запись чата"
 }

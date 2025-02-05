@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "உரை உருவாக்க முன்மாதிரி",
   "alerts": {
     "cannotExportEmptyCanvas": "காலியான கித்தானை ஏற்றுமதிசெய்ய முடியாது.",
@@ -650,7 +649,8 @@
     "rectangle": "செவ்வகம்",
     "selection": "தெரிவு",
     "text": "உரை",
-    "textToDiagram": "விளக்கப்படத்திற்கு உரை"
+    "textToDiagram": "விளக்கப்படத்திற்கு உரை",
+    "chat": "AI Q & A."
   },
   "userList": {
     "empty": "பயனர் இல்லை",
@@ -673,7 +673,14 @@
       "helpHint": "குறுக்குவழிகள் & உதவி",
       "menuHint": "ஏற்றுமதி, விருப்பத்தேர்வுகள்...",
       "tipsInfo": "கருவி தகவல்",
-      "toolbarHint": "கருவியைத் தேர்ந்தெடு & வரை!"
+      "toolbarHint": "கருவியைத் தேர்ந்தெடு & வரை!",
+      "editCode": "குறியீட்டைத் திருத்தவும்"
     }
-  }
+  },
+  "chatInputPlaceholder": "தகவல்களை உள்ளிடவும்",
+  "copyTextError": "நகல் தோல்வி",
+  "copyTextOk": "பிரதி",
+  "SendChatTips": "உள்ளடக்கத்தை உள்ளிடவும்",
+  "Apikey_does_not_exist": "அப்பிகி இல்லை",
+  "deleteChatAll": "அரட்டை பதிவை அழிக்கவும்"
 }

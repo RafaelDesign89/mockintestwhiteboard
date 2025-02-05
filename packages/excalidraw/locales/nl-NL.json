@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototype voor het genereren van tekst",
   "alerts": {
     "cannotExportEmptyCanvas": "Kan geen leeg canvas exporteren.",
@@ -650,7 +649,8 @@
     "rectangle": "Rechthoek",
     "selection": "Selectie",
     "text": "Tekst",
-    "textToDiagram": "tekst naar diagram"
+    "textToDiagram": "tekst naar diagram",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Gebruiker niet gevonden",
@@ -673,7 +673,14 @@
       "helpHint": "Snelkoppelingen en hulp",
       "menuHint": "Exporteren, voorkeuren en meer...",
       "tipsInfo": "Gereedschapsinformatie",
-      "toolbarHint": "Kies een tool & begin met tekenen!"
+      "toolbarHint": "Kies een tool & begin met tekenen!",
+      "editCode": "Bewerk de code"
     }
-  }
+  },
+  "chatInputPlaceholder": "Voer de informatie in",
+  "copyTextError": "Kopieer mislukking",
+  "copyTextOk": "Replicatie",
+  "SendChatTips": "Voer de inhoud in",
+  "Apikey_does_not_exist": "Apikey bestaat niet",
+  "deleteChatAll": "Clear Chat Record"
 }

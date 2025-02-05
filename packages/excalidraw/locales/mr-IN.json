@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "मजकूर निर्मिती प्रोटोटाइप",
   "alerts": {
     "cannotExportEmptyCanvas": "रिकामा पटल जतन करता येत नाही.",
@@ -650,7 +649,8 @@
     "rectangle": "आयत",
     "selection": "निवड",
     "text": "टेक्स्ट",
-    "textToDiagram": "चार्टसाठी मजकूर"
+    "textToDiagram": "चार्टसाठी मजकूर",
+    "chat": "एआय प्रश्नोत्तर"
   },
   "userList": {
     "empty": "वापरकर्ता सापडला नाही",
@@ -673,7 +673,14 @@
       "helpHint": "शॉर्टकट आणि सहाय्य",
       "menuHint": "निर्यात, आवड़ी निवडी आणि आणकिही...",
       "tipsInfo": "साधन माहिती",
-      "toolbarHint": "एक साधन निवडा आणि चित्रीकरण सुरु करा!"
+      "toolbarHint": "एक साधन निवडा आणि चित्रीकरण सुरु करा!",
+      "editCode": "कोड संपादित करा"
     }
-  }
+  },
+  "chatInputPlaceholder": "कृपया माहिती प्रविष्ट करा",
+  "copyTextError": "कॉपी अपयश",
+  "copyTextOk": "प्रतिकृती",
+  "SendChatTips": "कृपया सामग्री प्रविष्ट करा",
+  "Apikey_does_not_exist": "अपकी अस्तित्वात नाही",
+  "deleteChatAll": "गप्पा रेकॉर्ड साफ करा"
 }

@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Protótipo de geração de texto",
   "alerts": {
     "cannotExportEmptyCanvas": "Não é possível exportar uma área de desenho vazia.",
@@ -650,7 +649,8 @@
     "rectangle": "Retângulo",
     "selection": "Seleção",
     "text": "Texto",
-    "textToDiagram": "texto para gráfico"
+    "textToDiagram": "texto para gráfico",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Nenhum utilizador encontrado",
@@ -673,7 +673,14 @@
       "helpHint": "Atalhos e ajuda",
       "menuHint": "Exportar, preferências e outros...",
       "tipsInfo": "Informações da ferramenta",
-      "toolbarHint": "Escolha uma ferramenta e comece a desenhar!"
+      "toolbarHint": "Escolha uma ferramenta e comece a desenhar!",
+      "editCode": "Edite o código"
     }
-  }
+  },
+  "chatInputPlaceholder": "Por favor, insira a informação",
+  "copyTextError": "Falha na cópia",
+  "copyTextOk": "Replicação",
+  "SendChatTips": "Por favor, insira o conteúdo",
+  "Apikey_does_not_exist": "Apikey não existe",
+  "deleteChatAll": "Clear Chat Record"
 }

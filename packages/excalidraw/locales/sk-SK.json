@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "Prototyp generovania textu",
   "alerts": {
     "cannotExportEmptyCanvas": "Nie je možné exportovať prázdne plátno.",
@@ -650,7 +649,8 @@
     "rectangle": "Obdĺžnik",
     "selection": "Výber",
     "text": "Text",
-    "textToDiagram": "text do grafu"
+    "textToDiagram": "text do grafu",
+    "chat": "AI Q&A"
   },
   "userList": {
     "empty": "Používateľ sa nenašiel",
@@ -673,7 +673,14 @@
       "helpHint": "Klávesové skratky a pomocník",
       "menuHint": "Exportovanie, nastavenia a ďalšie...",
       "tipsInfo": "Informácie o nástroji",
-      "toolbarHint": "Zvoľte nástroj a začnite kresliť!"
+      "toolbarHint": "Zvoľte nástroj a začnite kresliť!",
+      "editCode": "Upraviť kód"
     }
-  }
+  },
+  "chatInputPlaceholder": "Zadajte informácie",
+  "copyTextError": "Zlyhanie skopírovania",
+  "copyTextOk": "Replikácia",
+  "SendChatTips": "Zadajte obsah",
+  "Apikey_does_not_exist": "Apikey neexistuje",
+  "deleteChatAll": "Vymazať záznam chat"
 }

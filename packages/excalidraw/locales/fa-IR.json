@@ -1,6 +1,5 @@
 {
-  "302Ai": {
-  },
+  "302Ai": {},
   "Text_generation_prototype": "نمونه اولیه تولید متن",
   "alerts": {
     "cannotExportEmptyCanvas": "بوم خالی قابل تبدیل نیست.",
@@ -650,7 +649,8 @@
     "rectangle": "مستطیل",
     "selection": "گزینش",
     "text": "متن",
-    "textToDiagram": "متن به نمودار"
+    "textToDiagram": "متن به نمودار",
+    "chat": "AI پرسش و پاسخ"
   },
   "userList": {
     "empty": "کاربر پیدا نشد",
@@ -673,7 +673,14 @@
       "helpHint": "میانبرها و راهنما",
       "menuHint": "خروجی، ترجیحات، وبیشتر ...",
       "tipsInfo": "اطلاعات ابزار",
-      "toolbarHint": "ابزاری را انتخاب کنید و نقاشی را شروع کنید!"
+      "toolbarHint": "ابزاری را انتخاب کنید و نقاشی را شروع کنید!",
+      "editCode": "کد را ویرایش کنید"
     }
-  }
+  },
+  "chatInputPlaceholder": "لطفا اطلاعات را وارد کنید",
+  "copyTextError": "کپی کردن شکست",
+  "copyTextOk": "تکرار",
+  "SendChatTips": "لطفا محتوا را وارد کنید",
+  "Apikey_does_not_exist": "apikey وجود ندارد",
+  "deleteChatAll": "ضبط گپ روشن"
 }
