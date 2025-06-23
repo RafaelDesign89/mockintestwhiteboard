@@ -132,7 +132,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import ScriptLoader from "./ScriptLoader";
 import AiChat from "./AiChat";
-
+import Chat from "./components/Chat";
 polyfill();
 
 window.EXCALIDRAW_THROTTLE_RENDER = true;
@@ -918,6 +918,7 @@ return (
             />
           )}
         </Excalidraw>
+        <Chat />
       </div>
     </div>
     <div style={{ flex: 1, borderLeft: "1px solid #ccc" }}>
