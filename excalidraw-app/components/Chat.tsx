@@ -2,7 +2,7 @@ const sendMessage = async () => {
   if (!input.trim()) return;
 
   const userMessage = input;
-  setMessages([...messages, `You: ${userMessage}`]);
+  setMessages((prev) => [...prev, `You: ${userMessage}`]);
   setInput("");
 
   try {
@@ -16,6 +16,12 @@ const sendMessage = async () => {
 
     const data = await response.json();
 
-    setMessages((prev) => [...prev, `AI: ${data.reply}`]);
+    if (data.reply) {
+      setMessages((prev) => [...prev, `AI: ${data.reply}`]);
+    } else {
+      setMessages((prev) => [...prev, `AI: Ошибка: нет ответа от сервера`]);
+    }
   } catch (error) {
-    setMessages((prev) => [...prev, `AI
+    setMessages((prev) => [...prev, `AI: Ошибка при запросе к API`]);
+  }
+};
